@@ -1,1 +1,1 @@
-# rede-neural-python
+# rede-neural-relu
